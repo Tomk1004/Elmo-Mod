@@ -1,0 +1,8 @@
+title: Elmo Mod
+originalAuthor: TomK1004
+description: Elmo
+assets:
+ - name: obj/B_EX420.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/B_EX420.mdlx
